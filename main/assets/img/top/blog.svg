@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="17.859318mm"
+   height="9.2603874mm"
+   viewBox="0 0 17.859317 9.2603874"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="blog.svg"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
+  <defs
+     id="defs2">
+    <rect
+       x="86.556549"
+       y="154.97025"
+       width="200.32738"
+       height="12.85119"
+       id="rect18" />
+    <rect
+       x="35.529762"
+       y="147.03275"
+       width="29.965904"
+       height="15.633324"
+       id="rect12" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.6"
+     inkscape:cx="51.006477"
+     inkscape:cy="24.446484"
+     inkscape:document-units="mm"
+     inkscape:current-layer="text10"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:pagecheckerboard="true"
+     inkscape:window-width="1528"
+     inkscape:window-height="740"
+     inkscape:window-x="1996"
+     inkscape:window-y="86"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="レイヤー 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-41.671407,-133.4025)">
+    <g
+       aria-label="3QR3Q"
+       id="text10"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect12);fill:#ffffff;fill-opacity:1;stroke:none">
+      <g
+         aria-label="BLOG"
+         id="text62"
+         style="font-size:10.5833px;line-height:1.25;font-family:Code39;-inkscape-font-specification:Code39;stroke-width:0.264583">
+        <path
+           d="m 43.325048,133.4025 v 9.26039 h 0.330728 v -9.26039 z m 1.65364,0 v 9.26039 h 0.661457 v -9.26039 z m -0.661456,0 v 9.26039 h 0.330728 v -9.26039 z m -1.984368,0 v 9.26039 h 0.661456 v -9.26039 z m -0.661457,0 v 9.26039 h 0.330728 v -9.26039 z"
+           style="stroke-width:0.264583"
+           id="path64" />
+        <path
+           d="m 48.616698,133.4025 v 9.26039 h 0.330728 v -9.26039 z m 0.992184,0 v 9.26039 h 0.661456 v -9.26039 z m -3.307281,0 v 9.26039 h 0.330728 v -9.26039 z m 1.653641,0 v 9.26039 h 0.330728 v -9.26039 z m -0.992185,0 v 9.26039 h 0.661456 v -9.26039 z"
+           style="stroke-width:0.264583"
+           id="path66" />
+        <path
+           d="m 54.569804,133.4025 v 9.26039 h 0.330728 v -9.26039 z m -3.638009,0 v 9.26039 h 0.661456 v -9.26039 z m 0.992184,0 v 9.26039 h 0.330728 v -9.26039 z m 0.661456,0 v 9.26039 h 0.661456 v -9.26039 z m 0.992185,0 v 9.26039 h 0.330728 v -9.26039 z"
+           style="stroke-width:0.264583"
+           id="path68" />
+        <path
+           d="m 58.86927,133.4025 v 9.26039 h 0.661456 v -9.26039 z m -2.645825,0 v 9.26039 h 0.330728 v -9.26039 z m -0.661457,0 v 9.26039 h 0.330729 v -9.26039 z m 1.322913,0 v 9.26039 h 0.330728 v -9.26039 z m 0.992184,0 v 9.26039 h 0.661456 v -9.26039 z"
+           style="stroke-width:0.264583"
+           id="path70" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       id="text16"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect18);fill:#000000;fill-opacity:1;stroke:none;" />
+  </g>
+</svg>
