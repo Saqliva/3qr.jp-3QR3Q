@@ -98,3 +98,8 @@ body>div>div.g02>img:nth-child(3) {
 .g02 a:hover:before {
     transform: scale(1);
 }
+
+.sns{
+    padding-left:auto;
+    padding-right:auto;
+}
