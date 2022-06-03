@@ -70,6 +70,7 @@ header a {
 }
 
 #g01_img02 {
+    padding-top: 5px;
     width: min(20%, 90px);
 }
 
