@@ -5,7 +5,8 @@
 }
 
 html {
-    font-size: 1.25vw;
+    font-size: 1.25vh;
+    color: white;
 }
 
 a {

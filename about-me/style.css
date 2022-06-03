@@ -1,0 +1,162 @@
+* {
+    margin: 0;
+    font-family: 'Zen Kaku Gothic New', sans-serif;
+    font-weight: 700;
+}
+
+html {
+    font-size: 1.25vh;
+    color: white;
+}
+
+a {
+    text-decoration: none;
+}
+
+body {
+    background-color: #141F28;
+}
+
+header {
+    padding: 15px 3% 15px;
+    background-color: #fff;
+    align-items: center;
+}
+
+header a {
+    color: #141F28;
+}
+
+#header_menu {
+    height: 24px;
+    display: flex;
+    align-items: center;
+}
+
+#img001 img{
+    height: clamp(18px, 1.25em, 100%);
+}
+
+#header_menu_texts {
+    height: 100%;
+    list-style: none;
+    margin: 0;
+    display: flex;
+}
+
+#header_menu ul li {
+    height: 100%;
+    padding: 0 10%;
+    font-size: clamp(18px, 1.25em, 20px);
+    white-space: nowrap;
+    display: flex;
+    align-items: center;
+}
+
+
+
+#main {
+    width: min(65vw, 600px);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateY(-50%) translateX(-50%);
+    -webkit-transform: translateY(-50%) translateX(-50%);
+}
+
+/*
+#main {
+    width: min(65vw, 600px);
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    -webkit-transform: translateX(-50%);
+}*/
+
+#main_img01 {
+    margin: 50px 0;
+    width: 100%;
+}
+
+
+#g01 {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+#g01_img01_w {
+    position: relative;
+    width: min(100%, 250px);
+    margin: 20px;
+}
+#g01_img01_w:before {
+    content:"";
+    display: block;
+    padding-top: 100%;
+}
+
+#g01_img01_p {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    display: flex;
+    border-radius: 50%;
+    background: white;
+    justify-content: center;
+    align-items: center;
+}
+
+#g01_img01 {
+    width: 80%;
+}
+
+#name {
+    padding: 15px;
+    border: 2px solid #DDD;
+    border-radius: 5px;
+    margin: 0 20px;
+}
+
+#message {
+    padding: 15px;
+    border: 2px solid #DDD;
+    border-radius: 5px;
+    width: 100%;
+    margin: 20px 20px;
+}
+
+.itemname {
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+    height: max(0.8em, 16px);
+    font-size: max(0.8em, 16px);
+    padding-bottom: 5px;
+    border-bottom: 2px solid #DDD;
+}
+
+.itemname img {
+    padding-left:5px;
+    height: 100%;
+}
+
+.item {
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+    height: clamp(48px, 3em, 64px);
+    font-size: clamp(48px, 3em, 64px);
+    padding: 0 50px;
+}
+
+.message {
+    margin: 10px;
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+    font-size: clamp(16px, 1em, 32px);
+}
