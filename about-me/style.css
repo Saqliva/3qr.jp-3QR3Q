@@ -74,8 +74,13 @@ header a {
 }*/
 
 #main_img01 {
-    margin: 50px 0;
+    margin: 50px 0 0 0;
     width: 100%;
+}
+
+#main_img02 {
+    padding-top: 5px;
+    width: min(20%, 90px);
 }
 
 
